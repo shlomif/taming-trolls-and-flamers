@@ -1,62 +1,62 @@
-Title: How to deal with Internet Trolls and Flamers - The Cognitive Therapy 
+Title: How to deal with Internet Trolls and Flamers - The Cognitive Therapy
 Approach.
 
 Subtitle: "On the Internet, don't be right - be smart."
 
 About myself. (boring).
 
-The Feelign Good Book by David A. Burns.
+The Feeling Good Book by David A. Burns.
 	- how to deal with and prevent clinical depressions using self-help 	
 	Congitive-Behavioural Therapy techniques (CBT)
 	- lots of good advice of why we behave the way we do.
-	- generally more effective than taking psychoactive medication, or 
+	- generally more effective than taking psychoactive medication, or
 	most other forms of therapy (e.g: Freudian therapy).
 
 How to deal with Internet trolls and flamers.
-Case study: someone joins a Python IRC channel and says "Perl rocks my socks 
-and Python sucks balls, LOL. Python programmers are incompetent imbecile 
-losers, ROTFL..." 
+Case study: someone joins a Python IRC channel and says "Perl rocks my socks
+and Python sucks balls, LOL. Python programmers are incompetent imbecile
+losers, ROTFL..."
 
-(I'm giving it about Python to avoid Perl-elitism on my part. I'm also using 
-"him", "he" consistenly, though the troll might be female. )
+(I'm giving it about Python to avoid Perl-elitism on my part. I'm also using
+"him", "he" consistently, though the troll might be female. )
 
 What not to do:
 ---------------
 
-1. Criticise his judgement: "Python does not suck, and you are being rude.", 
+1. Criticise his judgement: "Python does not suck, and you are being rude.",
 "WTF are you saying? Everybody knows that Perl sucks."
 
-2. "Don't feel the troll" - someone will feed him eventually and the troll may 
-continue trolling and feeling like he's right and superior or alternatively 
+2. "Don't feel the troll" - someone will feed him eventually and the troll may
+continue trolling and feeling like he's right and superior or alternatively
 that the Python people on the channels are being "jerks" for not responding.
 
-3. Ban him / call for banning him - a great way to get another enemy, and can 
-also possible start some "was it right to ban him" conversations. Will also 
-negatively contribute to the channel's perception and atmosphere among the 
+3. Ban him / call for banning him - a great way to get another enemy, and can
+also possible start some "was it right to ban him" conversations. Will also
+negatively contribute to the channel's perception and atmosphere among the
 channel members.
 
-The troll may also prove to be a useful resources or can be taught to love 
+The troll may also prove to be a useful resource or can be taught to love
 Python eventually.
 
-4. Tell him not to troll. You're labeling him and insulting him and he's 
+4. Tell him not to troll. You're labelling him and insulting him and he's
 feeling like he's alienated. Some people may still respond harshly.
 
 What to do instead:
 -------------------
 
-1. Agree with him (but use more exact words): "Yes, Perl is a nice language, 
-and I agree that Python has its downsides and/or tradeoffs in comparison to 
+1. Agree with him (but use more exact words): "Yes, Perl is a nice language,
+and I agree that Python has its downsides and/or tradeoffs in comparison to
 Perl.", "It's OK to prefer Perl, we'll still accept you here."
 
-2. Ask him what he means: "Why do you feel that Python is so bad? What do you 
+2. Ask him what he means: "Why do you feel that Python is so bad? What do you
 find wrong with it?"
 
 and eventually:
 
-3. Negotiate a common ground: "Would you agree that some people like Perl 
-better and some like Python better? (And some may like both equally.). Maybe 
-you can still write Python code and be productive in it while still not in 
-love with it. Who knows, maybe you'll even grow to like it. Feel free to stick 
+3. Negotiate a common ground: "Would you agree that some people like Perl
+better and some like Python better? (And some may like both equally.). Maybe
+you can still write Python code and be productive in it while still not in
+love with it. Who knows, maybe you'll even grow to like it. Feel free to stick
 around and ask questions."
 
 4. Repeat a few times.
@@ -68,42 +68,42 @@ around and ask questions."
 Some more advice:
 -----------------
 
-1. Write in the best spelling, grammar, punctuation, capitalisation, idiomatic 
+1. Write in the best spelling, grammar, punctuation, capitalisation, idiomatic
 speech, etc. that you can, no matter how bad the troll's message were.
 
-2. Don't criticise what he says directly or the way he says it (Style over 
+2. Don't criticise what he says directly or the way he says it (Style over
 substance etc.).
 
 3. Avoid logical fallacies:
-	- Ad hominem: "you're under age and much younger than me and not a 
-lawyer, so you're not qualified to give your opinion about open-source 
+	- Ad hominem: "you're under age and much younger than me and not a
+lawyer, so you're not qualified to give your opinion about open-source
 licences."
 
 4. Be polite, and friendly.
 
 5. Don't be too terse. Write coherently, and explain what you want.
-	- Proper human communication has a lot of redundancy, but people 
+	- Proper human communication has a lot of redundancy, but people
 prefer it this way.
-	- Even in Information Theory, you cannot compress an arbitrary amount 
+	- Even in Information Theory, you cannot compress an arbitrary amount
 of data to too short a message.
-		- http://www.socialsignal.com/image/short-and-sweet
+		-http://www.socialsignal.com/image/short-and-sweet
 
-6. Don't be too verbose, as people won't bother reading you. It may be better 
+6. Don't be too verbose, as people won't bother reading you. It may be better
 to put a claim and reiterate.
 
-7. If using E-mail, always do bottom-inline posting and don't top-post (unless 
-you know better than that, which you probably don't). 
+7. If using E-mail, always do bottom-inline posting and don't top-post (unless
+you know better than that, which you probably don't).
 	- Quote a selected message.
 	- Disarm the troll using the methods above.
 	- Repeat.
 
-8. Don't selectively "trim" the message without leaving too much context.
+8. Don't selectively "trim" the message without leaving enough context.
 
-9. Don't mis-interpret or jump to conclusions - ask the troll what he means if 
+9. Don't mis-interpret or jump to conclusions - ask the troll what he means if
 he doesn't know.
 
-10. Try to avoid aphorisms, proverbs, "famous" quotes, rhymes or verse etc. 
-Use freeform, coherent speech and say what you want in your own words. 
+10. Try to avoid aphorisms, proverbs, "famous" quotes, rhymes or verse etc.
+Use freeform, coherent speech and say what you want in your own words.
 	- Aphorisms, etc. tend to project authority, and usually backfire 	
 	because a person intuitively knows that.
 	- Sometimes they may lead to an aphorism war or for "correcting" the 	
@@ -111,12 +111,12 @@ Use freeform, coherent speech and say what you want in your own words.
 	- All of these can sometimes spice up a friendly conversation and add 	
 	humour to it, though, but your kilometrage may vary.
 
-11. Avoid too many obscure acronyms and abbreviations, as this can distract 
-from the discussion. Spell them out (possibly using your chat/E-mail/etc. 
+11. Avoid too many obscure acronyms and abbreviations, as this can distract
+from the discussion. Spell them out (possibly using your chat/E-mail/etc.
 client's shortcuts).
 
-12. Don't make fun of the troll. Respect him and try to avoid unnecessary 
+12. Don't make fun of the troll. Respect him and try to avoid unnecessary
 humour. Be pleasant - not funny.
 
-13. Don't be rude and use soft words such as "I think", "I believe", "In my 
+13. Don't be rude and use soft words such as "I think", "I believe", "In my
 opinion", "I find that", etc.
