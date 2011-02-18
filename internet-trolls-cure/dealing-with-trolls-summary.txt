@@ -86,7 +86,7 @@ licences."
 prefer it this way.
 	- Even in Information Theory, you cannot compress an arbitrary amount
 of data to too short a message.
-		-http://www.socialsignal.com/image/short-and-sweet
+		- http://www.socialsignal.com/image/short-and-sweet
 
 6. Don't be too verbose, as people won't bother reading you. It may be better
 to put a claim and reiterate.
@@ -103,7 +103,7 @@ you know better than that, which you probably don't).
 he doesn't know.
 
 10. Try to avoid aphorisms, proverbs, "famous" quotes, rhymes or verse etc.
-Use freeform, coherent speech and say what you want in your own words.
+Use free-form, coherent speech and say what you want in your own words.
 	- Aphorisms, etc. tend to project authority, and usually backfire 	
 	because a person intuitively knows that.
 	- Sometimes they may lead to an aphorism war or for "correcting" the 	
@@ -118,5 +118,5 @@ client's shortcuts).
 12. Don't make fun of the troll. Respect him and try to avoid unnecessary
 humour. Be pleasant - not funny.
 
-13. Don't be rude and use soft words such as "I think", "I believe", "In my
+13. Don't be rude; use soft words such as "I think", "I believe", "In my
 opinion", "I find that", etc.
