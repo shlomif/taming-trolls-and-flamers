@@ -69,7 +69,10 @@ Some more advice:
 -----------------
 
 1. Write in the best spelling, grammar, punctuation, capitalisation, idiomatic
-speech, etc. that you can, no matter how bad the troll's message were.
+speech, etc. that you can, no matter how bad the troll's message were in this
+respect.
+    - it may be a good idea to avoid too high or complicated words, because
+    trolls often have poor language.
 
 2. Don't criticise what he says directly or the way he says it (Style over
 substance etc.).
@@ -120,3 +123,22 @@ humour. Be pleasant - not funny.
 
 13. Don't be rude; use soft words such as "I think", "I believe", "In my
 opinion", "I find that", etc.
+
+14. Don't label: "open-source/creative commons is communism/socialism/etc." 
+(so what if it is? It's still a good thing.).
+
+Further Reading:
+----------------
+
+1. http://www.amazon.com/Feeling-Good-Therapy-Revised-Updated/dp/0380810336
+- "Feeling Good: The New Mood Therapy Revised and Updated" - 
+by David D. Burns .
+
+2. http://www.youtube.com/watch?v=ZSFDm3UYkeE
+- "How to Protect Your Open Source Project From Poisonous People"
+- by Ben Collins-Sussman and Brian Fitzpatrick of Subversion fame.
+- Google Tech Talk - not sure if there are subtitles or a transcript.
+
+3. http://producingoss.com/ - "Producing Open Source Software"
+- by Karl Fogel (of CVS/Subversion fame).
+
