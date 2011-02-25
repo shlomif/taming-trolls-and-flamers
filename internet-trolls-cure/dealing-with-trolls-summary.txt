@@ -3,8 +3,14 @@ Approach.
 
 Subtitle: "On the Internet, don't be right - be smart."
 
-About myself. (boring).
-    - at the end.
+* "You've probably heard people say many things about how to deal with Internet
+trolls and flamers, i.e: people who say provocative statements or routinely
+flame people. 
+
+One of the most pervasive myths is that one should "not feed the trolls",
+i.e: not reply to them. This almost always does not work and we will see
+the reason why below. So how do you indeed deal with people who insult
+or who are provocative?
 
 The Feeling Good Book by David A. Burns.
 	- how to deal with and prevent clinical depressions using self-help 	
@@ -142,4 +148,8 @@ by David D. Burns .
 
 3. http://producingoss.com/ - "Producing Open Source Software"
 - by Karl Fogel (of CVS/Subversion fame).
+
+About myself. (boring).
+-----------------------
+    - at the end.
 
