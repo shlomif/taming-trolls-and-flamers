@@ -1,0 +1,4 @@
+all:
+
+firefox:
+	firefox *.xhtml
