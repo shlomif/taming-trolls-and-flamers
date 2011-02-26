@@ -33,7 +33,7 @@ What not to do:
 1. Criticise his judgement: "Python does not suck, and you are being rude.",
 "WTF are you saying? Everybody knows that Perl sucks."
 
-2. "Don't feel the troll" - someone will feed him eventually and the troll may
+2. "Don't feed the troll" - someone will feed him eventually and the troll may
 continue trolling and feeling like he's right and superior or alternatively
 that the Python people on the channels are being "jerks" for not responding.
 
