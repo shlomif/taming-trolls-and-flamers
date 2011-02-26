@@ -116,7 +116,7 @@ you know better than that, which you probably don't).
 9. Don't selectively "trim" the message without leaving enough context.
 
 10. Don't mis-interpret or jump to conclusions - ask the troll what he means if
-he doesn't know.
+you don't know.
 
 11. Try to avoid aphorisms, proverbs, "famous" quotes, rhymes or verse etc.
 Use free-form, coherent speech and say what you want in your own words.
