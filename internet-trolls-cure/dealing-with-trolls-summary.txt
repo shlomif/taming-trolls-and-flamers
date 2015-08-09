@@ -5,7 +5,7 @@ Subtitle: "On the Internet, don't be right - be smart."
 
 * "You've probably heard people say many things about how to deal with Internet
 trolls and flamers, i.e: people who say provocative statements or routinely
-flame people. 
+flame people.
 
 One of the most pervasive myths is that one should "not feed the trolls",
 i.e: not reply to them. This almost always does not work and we will see
@@ -13,7 +13,7 @@ the reason why below. So how do you indeed deal with people who insult
 or who are provocative?
 
 The Feeling Good Book by David A. Burns.
-	- how to deal with and prevent clinical depressions using self-help 	
+	- how to deal with and prevent clinical depressions using self-help
 	Congitive-Behavioural Therapy techniques (CBT)
 	- lots of good advice of why we behave the way we do.
 	- generally more effective than taking psychoactive medication, or
@@ -48,7 +48,7 @@ Python eventually.
 4. Tell him not to troll. You're labelling him and insulting him and he's
 feeling like he's alienated. Some people may still respond harshly.
 
-5. Cancel the project, close the channel or give up 
+5. Cancel the project, close the channel or give up
     - some people actually considered it in some projects I was involved in.
     - naturally, this is throwing the baby along with the bathwater.
 
@@ -120,11 +120,11 @@ you don't know.
 
 11. Try to avoid aphorisms, proverbs, "famous" quotes, rhymes or verse etc.
 Use free-form, coherent speech and say what you want in your own words.
-	- Aphorisms, etc. tend to project authority, and usually backfire 	
+	- Aphorisms, etc. tend to project authority, and usually backfire
 	because a person intuitively knows that.
-	- Sometimes they may lead to an aphorism war or for "correcting" the 	
+	- Sometimes they may lead to an aphorism war or for "correcting" the
 	aphorism or discussing its larger context and origins.
-	- All of these can sometimes spice up a friendly conversation and add 	
+	- All of these can sometimes spice up a friendly conversation and add
 	humour to it, though, but your kilomterage may vary.
 
 12. Avoid too many obscure acronyms and abbreviations, as this can distract
@@ -137,7 +137,7 @@ humour. Be pleasant - not funny.
 14. Don't be rude; use soft words such as "I think", "I believe", "In my
 opinion", "I find that", etc.
 
-15. Don't label: "open-source/creative commons is communism/socialism/etc." 
+15. Don't label: "open-source/creative commons is communism/socialism/etc."
 (so what if it is? It's still a good thing.).
 
 16. Always start the conversation with a "Hi [someone], ", and possibly
@@ -147,7 +147,7 @@ Further Reading:
 ----------------
 
 1. http://www.amazon.com/Feeling-Good-Therapy-Revised-Updated/dp/0380810336
-- "Feeling Good: The New Mood Therapy Revised and Updated" - 
+- "Feeling Good: The New Mood Therapy Revised and Updated" -
 by David D. Burns .
 
 2. http://www.youtube.com/watch?v=ZSFDm3UYkeE
